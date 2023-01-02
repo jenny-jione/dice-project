@@ -1,2 +1,3 @@
 venv/
 *_ex.py
+.ipynb_checkpoints/
